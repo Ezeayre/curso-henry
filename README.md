@@ -1,2 +1,1 @@
-# curso-henry
-repositorio de prueba
+este repositorio es una prueba de como crear y clonar desde github
